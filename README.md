@@ -1,26 +1,26 @@
-### STINGER-V2 BUG BOT 
+### TOHID_KHAN-V2 BUG BOT 
    
 <p align="center">
-<img src="https://i.ibb.co/WVjs0r4/IMG-20240906-WA0025.jpg"/> 
+<img src="https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg"/> 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+STINGER+V2+BUG+BOT-BOT;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+ES+TEAMS;REALESE+DATE+10%2F9%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+TOHID_KHAN+V2+BUG+BOT-BOT;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+TOHID+TEAMS;REALESE+DATE+10%2F9%2F2024." alt="Typing SVG" /></a>
 </p>
 
 ### If you want to deploy on panel, download bot zip file and upload it to your server 
 
-### 1. <a href="https://github.com/paskito002/STINGER-V2/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork STINGER-V2" width="70"></a>
+### 1. <a href="https://github.com/tohidkhan6332/TOHID_KHAN-V2/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork TOHID_KHAN-V2" width="70"></a>
 
  ### 2. Deploy on Panel
 
  If you don't have an account in PANEL, create one and deploy.
     <br>
-    <a href='https://bot-hosting.net/?aff=1280448772995940427' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=bot-hosting.net&logoColor=white'/></a>
+    <a href='https://bot-hosting.net/?aff=1120843751628226691' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=bot-hosting.net&logoColor=white'/></a>
     
 ## WATCH VIDEO ON HOW TO DEPLOY ON PANEL.
 * [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lKYlMv5hyUk)
 
 ### 3.
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [STINGER-V2 BUG BOT](https://github.com/paskito002/STINGER-V2) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [TOHID_KHAN-V2 BUG BOT](https://github.com/tohidkhan6332/TOHID_KHAN-V2) ON ANY TERMINAL
 sudo apt -y update && sudo apt -y upgrade
 ```
 sudo apt -y install git ffmpeg curl
@@ -41,10 +41,10 @@ sudo npm install -g yarn
 sudo yarn global add pm2
 ```
 ```
-git clone https://github.com/type-your-username-here/STINGER-V2
+git clone https://github.com/type-your-username-here/TOHID_KHAN-V2
 ```
 ```
-cd STINGER-V2
+cd TOHID_KHAN-V2
 yarn install 
 npm start
  
@@ -74,10 +74,10 @@ pkg install imagemagick
 termux-setup-storage
 
 
-git clone https://github.com/paskito002/STINGER-V2
+git clone https://github.com/tohidkhan6332/TOHID_KHAN-V2
 ```
 ```
- cd STINGER-V2
+ cd TOHID_KHAN-V2
 ```
 ```
 yarn install
@@ -86,14 +86,14 @@ yarn install
 npm start
 ```
 
-## IF YOU NEED THE STINGER V2 ANTI-BUG SCRIPT, ```CONTACT ME ON WHATSAPP```
+## IF YOU NEED THE TOHID_KHAN-V2 ANTI-BUG SCRIPT, ```CONTACT ME ON WHATSAPP```
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2349037524605"><img src="https://img.shields.io/badge/Contact ES-TEAMS TECH-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.youtube.com/@esteams"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@esteams" /><br>
+<a href="https://wa.me/917849917350"><img src="https://img.shields.io/badge/Contact TOHID_TECH_TEAM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.youtube.com/@tohidkhan_6332"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@tohidkhan_6332" /><br>
 <p align="center">
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
  
