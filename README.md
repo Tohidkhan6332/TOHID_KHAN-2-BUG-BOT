@@ -17,7 +17,7 @@
     <a href='https://bot-hosting.net/?aff=1120843751628226691' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=bot-hosting.net&logoColor=white'/></a>
     
 ## WATCH VIDEO ON HOW TO DEPLOY ON PANEL.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lKYlMv5hyUk)
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.com/tohidkhan_6332)
 
 ### 3.
 #### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [TOHID_KHAN-V2 BUG BOT](https://github.com/tohidkhan6332/TOHID_KHAN-V2) ON ANY TERMINAL
